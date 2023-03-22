@@ -10,9 +10,8 @@ def task2():
         return cv2.imread(path + image)
     
     def fragment_search():
-        image = set_image('IMAGE.jpg')
-        
         for i in range(1, 11):
+            image = set_image('IMAGE.jpg')
             fragment = set_image(f'Et_{i}.jpg')
             (fragmentHeight, fragmentWidth) = fragment.shape[:2]
             # Осуществляем поиск фрагмента на изображении
