@@ -1,0 +1,60 @@
+https://www.1zoom.ru/big2/819/321881-svetik.jpg
+sports car : 95.9161
+convertible : 2.4579
+racer : 1.1275
+car wheel : 0.4073
+grille : 0.0629
+pickup : 0.0111
+beach wagon : 0.0104
+cab : 0.0015
+amphibian : 0.001
+crash helmet : 0.0009
+
+https://chudo-prirody.com/uploads/posts/2021-08/1628790785_59-p-morda-kota-foto-70.jpg
+tiger cat : 43.3476
+tabby : 24.1399
+lynx : 20.2773
+Egyptian cat : 11.9591
+tiger : 0.1233
+cougar : 0.0299
+carton : 0.025
+Persian cat : 0.0113
+lens cap : 0.011
+Siamese cat : 0.009
+
+https://kipmu.ru/wp-content/uploads/slnmgbgprg-scaled.jpg
+African elephant : 79.9593
+tusker : 15.2928
+Indian elephant : 4.6591
+triceratops : 0.0367
+Komodo dragon : 0.0325
+common iguana : 0.0028
+Mexican hairless : 0.0016
+chain mail : 0.0014
+bull mastiff : 0.0013
+Great Dane : 0.0009
+
+https://placepic.ru/wp-content/uploads/2019/06/zebra-1403093847jNA.jpg
+zebra : 99.995
+tiger : 0.0038
+tiger cat : 0.0011
+jaguar : 0.0
+gazelle : 0.0
+lionfish : 0.0
+hartebeest : 0.0
+tabby : 0.0
+impala : 0.0
+skunk : 0.0
+
+https://mykitai.ru/wp-content/uploads/2019/08/Bolshaya-panda.jpg
+giant panda : 98.7934
+lesser panda : 0.4904
+badger : 0.0755
+colobus : 0.0683
+American black bear : 0.0639
+brown bear : 0.0619
+capuchin : 0.0447
+titi : 0.0322
+cougar : 0.0306
+otter : 0.0229
+
