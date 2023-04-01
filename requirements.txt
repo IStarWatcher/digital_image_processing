@@ -1,4 +1,10 @@
+#opencv-python
+#argparse
+#imutils
+#sklearn
+imageai
+torch
+tensorflow
+torchvision
 opencv-python
-argparse
-imutils
-sklearn
+matplotlib
